@@ -2,8 +2,10 @@
 YOUR STYLES
 *******************/
 
-
-
+article {
+  background: yellow;
+  width: 50%;
+}
 
 /********************
 MEDIA QUERIES
